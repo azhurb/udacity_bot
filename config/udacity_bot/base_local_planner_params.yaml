@@ -3,7 +3,7 @@ TrajectoryPlannerROS:
   holonomic_robot: true
   meter_scoring: true
 
-  max_vel_x: 2.0
+  max_vel_x: 1.0
   pdist_scale: 1.2
 #  gdist_scale: 1.0
 
