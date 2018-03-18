@@ -1,5 +1,6 @@
 # Where Am I
 Udacity Robotics Nanodegree project
+![Localization result](misc/result.jpg)
 
 ## Requirements
 
