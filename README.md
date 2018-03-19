@@ -1,5 +1,8 @@
 # Where Am I
-Udacity Robotics Nanodegree project
+Udacity Robotics Nanodegree project.
+
+The goal of the project is to accurately localize a mobile robot inside a provided map in the Gazebo and RViz simulation environments.
+
 ![Localization result](misc/result.jpg)
 
 ## Requirements
